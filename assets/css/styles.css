@@ -190,7 +190,8 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(../img/slider/slider_1.jpeg) top center / cover no-repeat;
+    background: url('../img/slider/slider_1.jpeg') top center / cover no-repeat;
+/*     url('../img/slider/slider_1.jpeg') top center / cover no-repeat */
 }
 #slider .text-content {
     position: absolute;
